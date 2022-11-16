@@ -1,0 +1,17 @@
+{
+  "name": "explore-puppeteer",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "MdYousufHossen",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "bull": "^4.10.1",
+    "debug": "4.1.1",
+    "express": "^4.18.2",
+    "normalize-url": "^8.0.0",
+    "puppeteer": "^19.2.2"
+  }
+}
